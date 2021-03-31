@@ -11,3 +11,5 @@
 If you want more about this, Do check out my Article 👇🏻
 
 [**C# Corner**](https://www.c-sharpcorner.com/article/microservices-with-ocelot-apigateway-in-asp-net-core/ "C# Corner")
+
+[**Medium**](https://medium.com/nerd-for-tech/build-microservices-with-ocelot-api-gateway-in-net-core-d87666a278f4 "Medium")
